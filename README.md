@@ -1,4 +1,4 @@
-# Neural-Network-From-Scratch---Cereals-Dataset
+# Neural-Network-From-Scratch
 Build and train a fully custom neural network (no TensorFlow / PyTorch) on the cereals dataset to predict a target value from nutritional features, and evaluate prediction accuracy.
 
 **What the code does:**
@@ -71,3 +71,7 @@ pip install numpy pandas matplotlib
 - Final predicted table [correct, incorrect]
 - Final accuracy percentage
 - A Matplotlib plot comparing actual vs predicted outputs
+
+**Dataset**
+- cereals.csv
+- wisc_bc_data.csv
