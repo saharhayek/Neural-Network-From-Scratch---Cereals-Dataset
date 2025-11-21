@@ -14,7 +14,7 @@ Build and train a fully custom neural network (no TensorFlow / PyTorch) on the c
    - Plotting function for actual vs predicted outputs
 
 **2. Load and prepare data:**
-- Read cereals.csv with pandas
+- Read csv with pandas
    - Convert to NumPy array
    - Split into:
      X = all columns except last (inputs)
